@@ -1,0 +1,21 @@
+Web page 
+    Element + Element + ...+ Element
+element 
+    <tag>Content</tag> បណ្ដំព័ត៏មានដែលសំខាន់
+    start​ tag information end tag
+tag 
+    <ឈ្មោះ>
+
++NOTE: 
+ -(nesting) element (ធាតុក្នងធាតុ​ឬ មេធាតុក្នុងកូនធាតុ)
+ -(normal) element (<tag>Content</tag>)
+ -(empty) element (ធាតុដែលមិនមានខ្លឹមសារត្រូវសរសេរ<tag>)
+    Example: 
+        <hr> គូសបន្ទាត់ទូទឹងវេបផេក Horizontal Rule
+        <br> ចុះបន្ទាត់​ Line Break 
+        <meta> ទិន្ន័យអំពីវេបផេក
+ -(attribute) 
+  <tag attribute='value'>
+ - entity reference (សរសេរអក្សរឬសញ្ញាមិនអាចបញ្ចូលតាម keyboard)
+        &ឈ្មោះសម្គាល់ឬលេខសម្គាល់
+        &copy
